@@ -29,4 +29,4 @@ En `MainActivity.kt` se han sobrescrito los siete métodos principales del ciclo
 3. Abrir la ventana **Logcat** y aplicar el filtro:
    ```text
    tag:CicloVidaApp
-   
+   <img width="1808" height="997" alt="captura-logcat" src="https://github.com/user-attachments/assets/b7f938e1-2e3f-4afe-a46d-527fb6f758a4" />
