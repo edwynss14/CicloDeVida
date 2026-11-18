@@ -29,4 +29,9 @@ En `MainActivity.kt` se han sobrescrito los siete métodos principales del ciclo
 3. Abrir la ventana **Logcat** y aplicar el filtro:
    ```text
    tag:CicloVidaApp
-   <img width="1808" height="997" alt="captura-logcat" src="https://github.com/user-attachments/assets/b7f938e1-2e3f-4afe-a46d-527fb6f758a4" />
+   ```
+4. Navegar por el sistema (**Home**, **Recientes** y **Atrás**) para observar las transiciones de estado y el tiempo activo registrado en consola.
+
+## Evidencia de ejecución (Logcat)
+
+<img width="1808" height="997" alt="captura-logcat" src="https://github.com/user-attachments/assets/0f47bfe6-1701-4753-b5fa-134c8ff3cdc3" />
